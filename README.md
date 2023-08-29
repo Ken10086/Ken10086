@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Zhuokun Liu, Purdue ECE undergraduate student.
+### I am Zhuokun Liu, a Purdue ECE undergraduate student.
 
 <!--
 **Ken10086/Ken10086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
